@@ -21,4 +21,4 @@ console.log(factotial(1));
 console.log(factotial(4))
 console.log(factotial(5));
 
-// Big O notation = O(n) - Linear 
+// Big O notation = O(n) - Linear time complexity
