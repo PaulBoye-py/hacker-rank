@@ -25,8 +25,8 @@ The second line contains  space-separated integers, , the colors of the socks in
 
 ## Constraints
 
-1 <= n <= 100
-1 <= ar[i] <= 100 where 0 <= i < n
+- 1 <= n <= 100
+- 1 <= ar[i] <= 100 where 0 <= i < n
 
 ## Sample Input
 
