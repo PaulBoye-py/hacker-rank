@@ -17,7 +17,7 @@ function isPowerOfTwo(n) {
     // At the point, n = 1, then it returns true
     return true;   
 
-    // // Bitwise Power of 2 technique
+    // // Bitwise AND Power of 2 technique
 
     // return (n & (n - 1)) === 0
     // Bitwise Big-O = O(1)
